@@ -18,8 +18,8 @@ It was designed for several reasons:
 
 ### Schematic and PCB Layout
 
-* Schematic - Version 1.0
-* PCB Layout - Version 1.0
+* [Schematic - Version 1.0](https://github.com/skiselev/ps2-xt/blob/main/KiCad/ps2-xt-1.0-schematic.pdf)
+* [PCB Layout - Version 1.0](https://github.com/skiselev/ps2-xt/blob/main/KiCad/ps2-xt-1.0-board.pdf)
 * 3D printed case - Version 1.0
 
 ### Assembly Instructions
@@ -44,7 +44,7 @@ It was designed for several reasons:
 
 Component type     | Reference | Description                                 | Quantity | Possible sources and notes 
 ------------------ | --------- | ------------------------------------------- | -------- | --------------------------
-PCB                |           | PS2-XT PCB - Version 1.0                    | 1        | Order from a PCB manufacturer of your choice using provided Gerber or KiCad files
+PCB                |           | PS2-XT PCB - Version 1.0                    | 1        | Order from a PCB manufacturer of your choice using provided [Gerber](https://github.com/skiselev/ps2-xt/tree/main/gerber) or [KiCad](https://github.com/skiselev/ps2-xt/tree/main/KiCad) files
 Integrated Circuit | U1        | PIC12F629 Microcontroller RTC, 8 pin DIP    | 1        | Mouser [579-PIC12F629IP](https://www.mouser.com/ProductDetail/579-PIC12F629IP)
 IC Socket          | U2        | 8 pin DIP                                   | 1        | Mouser [737-ICS-308-T](https://www.mouser.com/ProductDetail/737-ICS-308-T)
 Diode              | D1        | 1N4148                                      | 1        | Mouser [512-1N4148TA](https://www.mouser.com/ProductDetail/512-1N4148TA)
