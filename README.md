@@ -63,6 +63,10 @@ Switch             | SW1       | Slider SPDT switch                          | 1
 
 ![PS/2 to XT - Complete in a Case](images/PS2-XT-Complete_in_Case.jpg)
 
+### Both Sides of the Assembled Boards
+
+![PS/2 to XT - Both Sides of the Assembled Boards](images/PS2-XT-Assembled_Boards_Both_Sides)
+
 ## Release Notes
 
 ### Changes
