@@ -14,13 +14,15 @@ It was designed for several reasons:
 4. I wanted an easy to build and service design, with through hole components.
 5. A friend asked for one...
 
+![PS/2 to XT - Assembled Board](images/PS2-XT-Assembled_Board.jpg)
+
 ## Hardware Documentation
 
 ### Schematic and PCB Layout
 
 * [Schematic - Version 1.0](https://github.com/skiselev/ps2-xt/blob/main/KiCad/ps2-xt-1.0-schematic.pdf)
 * [PCB Layout - Version 1.0](https://github.com/skiselev/ps2-xt/blob/main/KiCad/ps2-xt-1.0-board.pdf)
-* 3D printed case - Version 1.0
+* [3D printed case - Version 1.0](https://github.com/skiselev/ps2-xt/tree/main/printed)
 
 ### Assembly Instructions
 
@@ -54,6 +56,12 @@ Resistor           | R3        | 47 kohm, 0.25 W, 1% tolerance, axial        | 1
 Connector          | J1        | DIN-5 socket                                | 1        | Mouser [806-KCDX-5S-S2](https://www.mouser.com/ProductDetail/806-KCDX-5S-S2)
 Connector          | J2        | MiniDin-6 socket                            | 1        | Mouser [806-KMDGX-6S-BS](https://www.mouser.com/ProductDetail/806-KMDGX-6S-BS)
 Switch             | SW1       | Slider SPDT switch                          | 1        | Mouser [179-SLW8645872ARAND](https://www.mouser.com/ProductDetail/179-SLW8645872ARAND)
+
+## Additional Photos
+
+### Complete PS/2 to XT in a Case
+
+![PS/2 to XT - Complete in a Case](images/PS2-XT-Complete_in_Case.jpg)
 
 ## Release Notes
 
